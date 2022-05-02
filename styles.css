@@ -54,7 +54,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/san_diego.jpeg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -64,8 +64,8 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 150px;
-  height: 120px;
+  width: 250px;
+  height: 220px;
   border-radius: 50%;
   border: 3px solid white;
   transition: all .5s;
